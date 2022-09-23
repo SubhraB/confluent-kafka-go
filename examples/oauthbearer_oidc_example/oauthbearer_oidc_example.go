@@ -30,7 +30,7 @@ import (
 	"syscall"
 	"time"
 
-	"github.com/confluentinc/confluent-kafka-go/kafka"
+	"github.com/subhrab/confluent-kafka-go/kafka"
 )
 
 const (

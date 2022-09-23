@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/confluentinc/confluent-kafka-go/kafka"
+	"github.com/subhrab/confluent-kafka-go/kafka"
 )
 
 func main() {

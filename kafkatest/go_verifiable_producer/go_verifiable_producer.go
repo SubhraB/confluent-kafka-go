@@ -27,7 +27,7 @@ import (
 	"time"
 
 	"github.com/alecthomas/kingpin"
-	"github.com/confluentinc/confluent-kafka-go/kafka"
+	"github.com/subhrab/confluent-kafka-go/kafka"
 )
 
 var (
