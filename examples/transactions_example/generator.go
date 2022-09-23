@@ -26,7 +26,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/confluentinc/confluent-kafka-go/kafka"
+	"github.com/subhrab/confluent-kafka-go/kafka"
 )
 
 // Intersections this application will process.
