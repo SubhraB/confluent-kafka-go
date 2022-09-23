@@ -20,7 +20,7 @@ import (
 	"github.com/actgardner/gogen-avro/v10/parser"
 	"github.com/actgardner/gogen-avro/v10/resolver"
 	"github.com/actgardner/gogen-avro/v10/schema"
-	"github.com/subhra/confluent-kafka-go/schemaregistry"
+	"github.com/subhrab/confluent-kafka-go/schemaregistry"
 )
 
 func resolveAvroReferences(c schemaregistry.Client, schema schemaregistry.SchemaInfo, ns *parser.Namespace) (schema.AvroType, error) {
